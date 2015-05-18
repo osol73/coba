@@ -3,7 +3,7 @@
 
 void osol(void)
 {
-  printf("Ganteng\n");
+  printf("Ganteng Bgt\n");
 }
 
 void ganteng(void)
