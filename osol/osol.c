@@ -5,3 +5,8 @@ void osol(void)
 {
   printf("Ganteng\n");
 }
+
+void ganteng(void)
+{
+  printf("Osol\n");
+}
