@@ -9,4 +9,5 @@ void osol(void)
 void ganteng(void)
 {
   printf("Osol\n");
+  printf("Wew\n");
 }
